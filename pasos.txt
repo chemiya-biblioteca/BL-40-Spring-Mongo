@@ -1,0 +1,3 @@
+crear proyecto con spring initilizr
+añadir dependencia spring data mogodb,spring web
+crear database Prueba en compass 
