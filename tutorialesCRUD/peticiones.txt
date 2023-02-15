@@ -1,0 +1,46 @@
+post 
+
+http://localhost:8080/api/tutorials
+
+
+{
+ "title":"hola",
+  "description":"descripcion"
+  
+  
+}
+
+
+get:
+
+http://localhost:8080/api/tutorials
+
+
+get:
+
+http://localhost:8080/api/tutorials/63ea3a170924d565e7a9a662
+
+
+put:
+
+http://localhost:8080/api/tutorials/63ea3a170924d565e7a9a662
+
+{
+ "title":"hola11",
+  "description":"descripcion11"
+  
+  
+}
+
+
+delete:
+
+http://localhost:8080/api/tutorials/63ea3a170924d565e7a9a662
+
+
+
+get:
+
+http://localhost:8080/api/tutorials/published
+
+
